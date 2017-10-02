@@ -32,7 +32,9 @@ User stories are short, simple descriptions told from a perspective of a given s
 - *As a < stakeholder >, I want < some goal > so that < some reason >.* 
 
 For example:
-- *As a researcher, I want to inform repository operator on the amount of data in the planning phase, so that they confirm that this is possible.*
+- *As a researcher, I want to inform repository operator on the amount of data in the planning phase, so that they confirm that they will accept later my submission.*
+
+- *As a researcher, I want to inform repository operator on the amount of data in the planning phase, so that they provide information on costs.*
 
 - *As a researcher, I want to inform funders that data is available in an open access repository, so that I can receive my last grant payment.*
 
