@@ -53,4 +53,4 @@ Please:
 
 Once new issues are submitted, we will assign labels to help us categorise and group the contributions.
 
-We have added some example entries (example 1 and example 2) to give a sense of the kind of contributions you might make. 
+We have added an [example](https://github.com/RDA-DMP-Common/user-stories/issues/1) to give a sense of the kind of contributions you might make. 
